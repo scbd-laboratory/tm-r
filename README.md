@@ -1,2 +1,2 @@
-# tm-r
-LDA Topic Modelling with R
+# LDA Topic Modeling with R
+Create a topic modeling using R
